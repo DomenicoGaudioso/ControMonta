@@ -1,15 +1,4 @@
-# ==========================================
-# Bridge Builder: Camber Tool - Requirements
-# ==========================================
-
-# Framework per l'interfaccia Web
-streamlit==1.32.0
-
-# Analisi, manipolazione dati e calcoli matriciali
-pandas==2.2.1
-
-# Generazione di grafici interattivi e vettoriali
-plotly==5.19.0
-
-# Motore di lettura ed elaborazione per file Excel (.xlsx)
-openpyxl==3.1.2
+streamlit
+pandas
+plotly
+openpyxl
