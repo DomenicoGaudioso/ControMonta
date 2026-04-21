@@ -1,4 +1,4 @@
-#ControMonta
+# ControMonta
 
 **ControMonta** è una Web App sviluppata in Python e Streamlit dedicata all'ingegneria strutturale. Il software automatizza il calcolo della **contromonta di officina** partendo dagli output di calcolo FEM (es. Midas Civil), permettendo di combinare diversi casi di carico con coefficienti personalizzati e di gestire correttamente i nodi di appoggio (pile/spalle).
 
